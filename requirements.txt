@@ -1,6 +1,6 @@
 numpy
 streamlit
 easyocr
-opencv-python
+opencv-python-headless
 matplotlib
 Pillow
