@@ -1,6 +1,6 @@
 numpy
 streamlit
 easyocr
-cv2
+opencv-python
 matplotlib
-PIL
+Pillow
