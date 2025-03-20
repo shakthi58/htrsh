@@ -1,0 +1,6 @@
+numpy
+streamlit
+easyocr
+cv2
+matplotlib
+PIL
